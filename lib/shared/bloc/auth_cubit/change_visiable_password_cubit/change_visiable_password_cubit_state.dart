@@ -1,0 +1,3 @@
+abstract class ChangeVisiblePasswordStates{}
+class IdleStatePasswordVisibleState extends ChangeVisiblePasswordStates{}
+class ChangeVisiblePasswordState extends ChangeVisiblePasswordStates{}
